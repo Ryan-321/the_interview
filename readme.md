@@ -4,12 +4,12 @@ For the next 2 days of morning exercises, we've provided two coding challenges!
 
 Both of these challenges were exercises that our very own instructors had to solve for jobs!
 
-It's ok to struggle through these challenges, they're tough!
+Persumably, you all want It's ok to struggle through these challenges, they're tough!
 
 ## The First Challenge - Hogwarts
 Remember how to do rails.
 
-Fork/Clone this repo.
+Fork/Clone [this repo](https://github.com/ga-dc/hogwarts_rails).
 
 This repo contains a web application all about Hogwarts! But it's completely broken.
 
