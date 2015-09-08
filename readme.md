@@ -2,18 +2,20 @@
 
 For the next 2 days of morning exercises, we've provided two coding challenges!
 
-Both of these challenges were exercises that our very own instructors had to solve for jobs!
+Both of these challenges were exercises that our very own instructors had to solve for a job interview process!
 
-Persumably, you all want It's ok to struggle through these challenges, they're tough!
+
+It's ok to struggle through these challenges, they're tough!
 
 ## The First Challenge - Hogwarts
-Remember how to do rails.
+Persumably, you all want to put rails on your resumé. So we want to do a quick refresher on server side web applications.
 
 Fork/Clone [this repo](https://github.com/ga-dc/hogwarts_rails).
 
 This repo contains a web application all about Hogwarts! But it's completely broken.
 
 ### Your job
+Remember how to do rails.
 
 Fix it!
 
